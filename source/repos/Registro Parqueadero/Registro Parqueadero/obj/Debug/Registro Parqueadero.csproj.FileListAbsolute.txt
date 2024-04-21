@@ -1,0 +1,11 @@
+C:\Users\Andres\source\repos\Registro Parqueadero\Registro Parqueadero\bin\Debug\Registro Parqueadero.exe.config
+C:\Users\Andres\source\repos\Registro Parqueadero\Registro Parqueadero\bin\Debug\Registro Parqueadero.exe
+C:\Users\Andres\source\repos\Registro Parqueadero\Registro Parqueadero\bin\Debug\Registro Parqueadero.pdb
+C:\Users\Andres\source\repos\Registro Parqueadero\Registro Parqueadero\obj\Debug\Registro Parqueadero.csproj.AssemblyReference.cache
+C:\Users\Andres\source\repos\Registro Parqueadero\Registro Parqueadero\obj\Debug\Registro_Parqueadero.Form1.resources
+C:\Users\Andres\source\repos\Registro Parqueadero\Registro Parqueadero\obj\Debug\Registro_Parqueadero.Properties.Resources.resources
+C:\Users\Andres\source\repos\Registro Parqueadero\Registro Parqueadero\obj\Debug\Registro Parqueadero.csproj.GenerateResource.cache
+C:\Users\Andres\source\repos\Registro Parqueadero\Registro Parqueadero\obj\Debug\Registro Parqueadero.csproj.CoreCompileInputs.cache
+C:\Users\Andres\source\repos\Registro Parqueadero\Registro Parqueadero\obj\Debug\Registro Parqueadero.exe
+C:\Users\Andres\source\repos\Registro Parqueadero\Registro Parqueadero\obj\Debug\Registro Parqueadero.pdb
+C:\Users\Andres\source\repos\Registro Parqueadero\Registro Parqueadero\obj\Debug\Registro_Parqueadero.AccesoParqueo.resources

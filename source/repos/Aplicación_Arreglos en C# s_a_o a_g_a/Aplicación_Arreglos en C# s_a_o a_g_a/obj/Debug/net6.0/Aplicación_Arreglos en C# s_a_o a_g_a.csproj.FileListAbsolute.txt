@@ -1,0 +1,14 @@
+C:\Users\Andres\source\repos\Aplicación_Arreglos en C# s_a_o a_g_a\Aplicación_Arreglos en C# s_a_o a_g_a\bin\Debug\net6.0\Aplicación_Arreglos en C# s_a_o a_g_a.exe
+C:\Users\Andres\source\repos\Aplicación_Arreglos en C# s_a_o a_g_a\Aplicación_Arreglos en C# s_a_o a_g_a\bin\Debug\net6.0\Aplicación_Arreglos en C# s_a_o a_g_a.deps.json
+C:\Users\Andres\source\repos\Aplicación_Arreglos en C# s_a_o a_g_a\Aplicación_Arreglos en C# s_a_o a_g_a\bin\Debug\net6.0\Aplicación_Arreglos en C# s_a_o a_g_a.runtimeconfig.json
+C:\Users\Andres\source\repos\Aplicación_Arreglos en C# s_a_o a_g_a\Aplicación_Arreglos en C# s_a_o a_g_a\bin\Debug\net6.0\Aplicación_Arreglos en C# s_a_o a_g_a.dll
+C:\Users\Andres\source\repos\Aplicación_Arreglos en C# s_a_o a_g_a\Aplicación_Arreglos en C# s_a_o a_g_a\bin\Debug\net6.0\Aplicación_Arreglos en C# s_a_o a_g_a.pdb
+C:\Users\Andres\source\repos\Aplicación_Arreglos en C# s_a_o a_g_a\Aplicación_Arreglos en C# s_a_o a_g_a\obj\Debug\net6.0\Aplicación_Arreglos en C# s_a_o a_g_a.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andres\source\repos\Aplicación_Arreglos en C# s_a_o a_g_a\Aplicación_Arreglos en C# s_a_o a_g_a\obj\Debug\net6.0\Aplicación_Arreglos en C# s_a_o a_g_a.AssemblyInfoInputs.cache
+C:\Users\Andres\source\repos\Aplicación_Arreglos en C# s_a_o a_g_a\Aplicación_Arreglos en C# s_a_o a_g_a\obj\Debug\net6.0\Aplicación_Arreglos en C# s_a_o a_g_a.AssemblyInfo.cs
+C:\Users\Andres\source\repos\Aplicación_Arreglos en C# s_a_o a_g_a\Aplicación_Arreglos en C# s_a_o a_g_a\obj\Debug\net6.0\Aplicación_Arreglos en C# s_a_o a_g_a.csproj.CoreCompileInputs.cache
+C:\Users\Andres\source\repos\Aplicación_Arreglos en C# s_a_o a_g_a\Aplicación_Arreglos en C# s_a_o a_g_a\obj\Debug\net6.0\Aplicación_Arreglos en C# s_a_o a_g_a.dll
+C:\Users\Andres\source\repos\Aplicación_Arreglos en C# s_a_o a_g_a\Aplicación_Arreglos en C# s_a_o a_g_a\obj\Debug\net6.0\refint\Aplicación_Arreglos en C# s_a_o a_g_a.dll
+C:\Users\Andres\source\repos\Aplicación_Arreglos en C# s_a_o a_g_a\Aplicación_Arreglos en C# s_a_o a_g_a\obj\Debug\net6.0\Aplicación_Arreglos en C# s_a_o a_g_a.pdb
+C:\Users\Andres\source\repos\Aplicación_Arreglos en C# s_a_o a_g_a\Aplicación_Arreglos en C# s_a_o a_g_a\obj\Debug\net6.0\Aplicación_Arreglos en C# s_a_o a_g_a.genruntimeconfig.cache
+C:\Users\Andres\source\repos\Aplicación_Arreglos en C# s_a_o a_g_a\Aplicación_Arreglos en C# s_a_o a_g_a\obj\Debug\net6.0\ref\Aplicación_Arreglos en C# s_a_o a_g_a.dll

@@ -1,0 +1,11 @@
+C:\Users\Andres\source\repos\InicioSesion\InicioSesion\bin\Debug\InicioSesion.exe.config
+C:\Users\Andres\source\repos\InicioSesion\InicioSesion\bin\Debug\InicioSesion.exe
+C:\Users\Andres\source\repos\InicioSesion\InicioSesion\bin\Debug\InicioSesion.pdb
+C:\Users\Andres\source\repos\InicioSesion\InicioSesion\obj\Debug\InicioSesion.csproj.AssemblyReference.cache
+C:\Users\Andres\source\repos\InicioSesion\InicioSesion\obj\Debug\InicioSesion.Form1.resources
+C:\Users\Andres\source\repos\InicioSesion\InicioSesion\obj\Debug\InicioSesion.Properties.Resources.resources
+C:\Users\Andres\source\repos\InicioSesion\InicioSesion\obj\Debug\InicioSesion.csproj.GenerateResource.cache
+C:\Users\Andres\source\repos\InicioSesion\InicioSesion\obj\Debug\InicioSesion.csproj.CoreCompileInputs.cache
+C:\Users\Andres\source\repos\InicioSesion\InicioSesion\obj\Debug\InicioSesion.exe
+C:\Users\Andres\source\repos\InicioSesion\InicioSesion\obj\Debug\InicioSesion.pdb
+C:\Users\Andres\source\repos\InicioSesion\InicioSesion\obj\Debug\InicioSesion.Form2.resources

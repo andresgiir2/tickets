@@ -1,0 +1,15 @@
+C:\Users\Andres\source\repos\DiseñoUi\DiseñoUi\bin\Debug\DiseñoUi.exe.config
+C:\Users\Andres\source\repos\DiseñoUi\DiseñoUi\bin\Debug\DiseñoUi.exe
+C:\Users\Andres\source\repos\DiseñoUi\DiseñoUi\bin\Debug\DiseñoUi.pdb
+C:\Users\Andres\source\repos\DiseñoUi\DiseñoUi\obj\Debug\DiseñoUi.csproj.AssemblyReference.cache
+C:\Users\Andres\source\repos\DiseñoUi\DiseñoUi\obj\Debug\DiseñoUi.Form1.resources
+C:\Users\Andres\source\repos\DiseñoUi\DiseñoUi\obj\Debug\DiseñoUi.Properties.Resources.resources
+C:\Users\Andres\source\repos\DiseñoUi\DiseñoUi\obj\Debug\DiseñoUi.csproj.GenerateResource.cache
+C:\Users\Andres\source\repos\DiseñoUi\DiseñoUi\obj\Debug\DiseñoUi.csproj.CoreCompileInputs.cache
+C:\Users\Andres\source\repos\DiseñoUi\DiseñoUi\obj\Debug\DiseñoUi.exe
+C:\Users\Andres\source\repos\DiseñoUi\DiseñoUi\obj\Debug\DiseñoUi.pdb
+C:\Users\Andres\source\repos\DiseñoUi\DiseñoUi\obj\Debug\DiseñoUi.Productos.resources
+C:\Users\Andres\source\repos\DiseñoUi\DiseñoUi\obj\Debug\DiseñoUi.Login.resources
+C:\Users\Andres\source\repos\DiseñoUi\DiseñoUi\obj\Debug\DiseñoUi.RegistroUsuario.resources
+C:\Users\Andres\source\repos\DiseñoUi\DiseñoUi\obj\Debug\DiseñoUi.Ventas.resources
+C:\Users\Andres\source\repos\DiseñoUi\DiseñoUi\obj\Debug\DiseñoUi.FormEfectivo.resources

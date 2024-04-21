@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="Vehicu.exe" version="1.0.0.0" publicKeyToken="e11c3c0fcf0f0b24" language="neutral" processorArchitecture="msil" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="Vehicu" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="Vehicu.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          Opciones del manifiesto de Control de cuentas de usuario
+          Si quiere cambiar el nivel de Control de cuentas de usuario de Windows, reemplace el
+          nodo requestedExecutionLevel por alguno de los siguientes.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         Si desea usar la virtualización de archivos y del Registro para la
+         compatibilidad con versiones anteriores, elimine el nodo requestedExecutionLevel.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Vehicu.exe" size="18408">
+      <assemblyIdentity name="Vehicu" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>EsPHih/jom3CrblFoc2jiU9rxbU/515jI7usWXw+maI=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="Vehicu.exe.config" size="189">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>R+Wg8QGvQVHX8T0ta/qbhH1bXkqY0fRnS3wBV3J0bN8=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=DESKTOP-UR38VU6\Andres" issuerKeyHash="2d92dc545ee77e5f4fd27ce6213b69f758347e94" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>1Jr8zSreFZ+/D9ceACJlza2AMpkZ4A4vsD+eNpm8NZ4=</DigestValue></Reference></SignedInfo><SignatureValue>dboL7QYU5+V+km6CIIGYpAGPelJ5/j/1qkvmTR0XLQg2TcYtv+M8z8CDju1Ga12ivUX7W7VKocLpDUuar3lQ0tN9Ib86ejoO2fvI5TKnCEpRYbe+Z1h644IOv+dHZTjr5WqHrbeL6Z8GsL+8r2MhO4raDEZ8mC3ccOAoGkt+dNY=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>1fLd733HEEFNitzGvSRn8kOnu1APndtOzq3VpdwRryyRWKoZo/w+Kou7aCvFfULnpIhCpD22l0HoHrQSvotD+lMrUfR4xmZqVkc9eAM9keLX88KCvPB1mtHQSB3dpYQ6GRilT89iLmefzwXI4nKqzsqLBsu4SVZwBMu6v5S3XpU=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="9e35bc99369e3fb02f0ee019993280adcd6522001ed70fbf9f15de2acdfc9ad4" Description="" Url=""><as:assemblyIdentity name="Vehicu.exe" version="1.0.0.0" publicKeyToken="e11c3c0fcf0f0b24" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=DESKTOP-UR38VU6\Andres</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>3unqvEJoNhe/PlwqIbx+uwPEi7Lagyb4hOv4jfYCGaI=</DigestValue></Reference></SignedInfo><SignatureValue>EZLtINwbUO+vmoqFFg8CkY6JsXHaPBvw2d+RTP+9eMcL2jDFm2c0FeMxif35hLXy9MclgAz61Jhxz1mpn+vCE0oEYXGLD0sciqrqD0w5DvRJhTqPC5HKHGP9jRC2u9ZOGGR6WmlzQ7tSRmE9zPNyf7ybxVHrBv/lZ86rN0r98F8=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>1fLd733HEEFNitzGvSRn8kOnu1APndtOzq3VpdwRryyRWKoZo/w+Kou7aCvFfULnpIhCpD22l0HoHrQSvotD+lMrUfR4xmZqVkc9eAM9keLX88KCvPB1mtHQSB3dpYQ6GRilT89iLmefzwXI4nKqzsqLBsu4SVZwBMu6v5S3XpU=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB8TCCAVqgAwIBAgIQG43apJgn/Z9IcGFe+jL+fDANBgkqhkiG9w0BAQsFADA3MTUwMwYDVQQDHiwARABFAFMASwBUAE8AUAAtAFUAUgAzADgAVgBVADYAXABBAG4AZAByAGUAczAeFw0yMzExMDYyMzAyMTBaFw0yNDExMDYwNTAyMTBaMDcxNTAzBgNVBAMeLABEAEUAUwBLAFQATwBQAC0AVQBSADMAOABWAFUANgBcAEEAbgBkAHIAZQBzMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDV8t3vfccQQU2K3Ma9JGfyQ6e7UA+d207OrdWl3BGvLJFYqhmj/D4qi7toK8V9QuekiEKkPbaXQegetBK+i0P6UytR9HjGZmpWRz14Az2R4tfzwoK88HWa0dBIHd2lhDoZGKVPz2IuZ5/PBcjicqrOyosGy7hJVnAEy7q/lLdelQIDAQABMA0GCSqGSIb3DQEBCwUAA4GBAJrbcUNORRDZio37Vqisghx18ytW4g0xhrOftNSpH4oytkZvjHx5DCKAF2X91UGxYutxn3wylEoehpHkEFVZ8DG0PKYVeU2d1CJR6arzFbyJ2KxmL7mQ2ZhJaIHMqdEokMeJFRBVzv0QfxIM3gUqSnkQJ2VXs8PsVTW93b3vseS2</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

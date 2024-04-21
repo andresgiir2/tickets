@@ -1,0 +1,15 @@
+C:\Users\Andres\source\repos\Vehicu\Vehicu\obj\Debug\Vehicu.csproj.AssemblyReference.cache
+C:\Users\Andres\source\repos\Vehicu\Vehicu\obj\Debug\Vehicu.Form1.resources
+C:\Users\Andres\source\repos\Vehicu\Vehicu\obj\Debug\Vehicu.Properties.Resources.resources
+C:\Users\Andres\source\repos\Vehicu\Vehicu\obj\Debug\Vehicu.Ventas.resources
+C:\Users\Andres\source\repos\Vehicu\Vehicu\obj\Debug\Vehicu.csproj.GenerateResource.cache
+C:\Users\Andres\source\repos\Vehicu\Vehicu\obj\Debug\Vehicu.csproj.CoreCompileInputs.cache
+C:\Users\Andres\source\repos\Vehicu\Vehicu\bin\Debug\Vehicu.exe.config
+C:\Users\Andres\source\repos\Vehicu\Vehicu\bin\Debug\Vehicu.exe
+C:\Users\Andres\source\repos\Vehicu\Vehicu\bin\Debug\Vehicu.pdb
+C:\Users\Andres\source\repos\Vehicu\Vehicu\obj\Debug\Vehicu.exe
+C:\Users\Andres\source\repos\Vehicu\Vehicu\obj\Debug\Vehicu.pdb
+C:\Users\Andres\source\repos\Vehicu\Vehicu\bin\Debug\Vehicu.exe.manifest
+C:\Users\Andres\source\repos\Vehicu\Vehicu\bin\Debug\Vehicu.application
+C:\Users\Andres\source\repos\Vehicu\Vehicu\obj\Debug\Vehicu.exe.manifest
+C:\Users\Andres\source\repos\Vehicu\Vehicu\obj\Debug\Vehicu.application

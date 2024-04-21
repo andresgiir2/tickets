@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Aplicación_Arreglos en C# s_a_o a_g_a/1.0.0": {
+        "runtime": {
+          "Aplicación_Arreglos en C# s_a_o a_g_a.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Aplicación_Arreglos en C# s_a_o a_g_a/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

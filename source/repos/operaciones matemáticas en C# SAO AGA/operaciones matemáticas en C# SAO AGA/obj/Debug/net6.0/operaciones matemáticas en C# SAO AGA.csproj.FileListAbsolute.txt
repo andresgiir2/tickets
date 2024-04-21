@@ -1,0 +1,14 @@
+C:\Users\Andres\source\repos\operaciones matemáticas en C# SAO AGA\operaciones matemáticas en C# SAO AGA\bin\Debug\net6.0\operaciones matemáticas en C# SAO AGA.exe
+C:\Users\Andres\source\repos\operaciones matemáticas en C# SAO AGA\operaciones matemáticas en C# SAO AGA\bin\Debug\net6.0\operaciones matemáticas en C# SAO AGA.deps.json
+C:\Users\Andres\source\repos\operaciones matemáticas en C# SAO AGA\operaciones matemáticas en C# SAO AGA\bin\Debug\net6.0\operaciones matemáticas en C# SAO AGA.runtimeconfig.json
+C:\Users\Andres\source\repos\operaciones matemáticas en C# SAO AGA\operaciones matemáticas en C# SAO AGA\bin\Debug\net6.0\operaciones matemáticas en C# SAO AGA.dll
+C:\Users\Andres\source\repos\operaciones matemáticas en C# SAO AGA\operaciones matemáticas en C# SAO AGA\bin\Debug\net6.0\operaciones matemáticas en C# SAO AGA.pdb
+C:\Users\Andres\source\repos\operaciones matemáticas en C# SAO AGA\operaciones matemáticas en C# SAO AGA\obj\Debug\net6.0\operaciones matemáticas en C# SAO AGA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andres\source\repos\operaciones matemáticas en C# SAO AGA\operaciones matemáticas en C# SAO AGA\obj\Debug\net6.0\operaciones matemáticas en C# SAO AGA.AssemblyInfoInputs.cache
+C:\Users\Andres\source\repos\operaciones matemáticas en C# SAO AGA\operaciones matemáticas en C# SAO AGA\obj\Debug\net6.0\operaciones matemáticas en C# SAO AGA.AssemblyInfo.cs
+C:\Users\Andres\source\repos\operaciones matemáticas en C# SAO AGA\operaciones matemáticas en C# SAO AGA\obj\Debug\net6.0\operaciones matemáticas en C# SAO AGA.csproj.CoreCompileInputs.cache
+C:\Users\Andres\source\repos\operaciones matemáticas en C# SAO AGA\operaciones matemáticas en C# SAO AGA\obj\Debug\net6.0\operaciones matemáticas en C# SAO AGA.dll
+C:\Users\Andres\source\repos\operaciones matemáticas en C# SAO AGA\operaciones matemáticas en C# SAO AGA\obj\Debug\net6.0\refint\operaciones matemáticas en C# SAO AGA.dll
+C:\Users\Andres\source\repos\operaciones matemáticas en C# SAO AGA\operaciones matemáticas en C# SAO AGA\obj\Debug\net6.0\operaciones matemáticas en C# SAO AGA.pdb
+C:\Users\Andres\source\repos\operaciones matemáticas en C# SAO AGA\operaciones matemáticas en C# SAO AGA\obj\Debug\net6.0\operaciones matemáticas en C# SAO AGA.genruntimeconfig.cache
+C:\Users\Andres\source\repos\operaciones matemáticas en C# SAO AGA\operaciones matemáticas en C# SAO AGA\obj\Debug\net6.0\ref\operaciones matemáticas en C# SAO AGA.dll

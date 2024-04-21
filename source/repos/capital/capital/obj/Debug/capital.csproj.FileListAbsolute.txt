@@ -1,0 +1,10 @@
+C:\Users\Andres\source\repos\capital\capital\bin\Debug\capital.exe.config
+C:\Users\Andres\source\repos\capital\capital\bin\Debug\capital.exe
+C:\Users\Andres\source\repos\capital\capital\bin\Debug\capital.pdb
+C:\Users\Andres\source\repos\capital\capital\obj\Debug\capital.csproj.AssemblyReference.cache
+C:\Users\Andres\source\repos\capital\capital\obj\Debug\capital.Form1.resources
+C:\Users\Andres\source\repos\capital\capital\obj\Debug\capital.Properties.Resources.resources
+C:\Users\Andres\source\repos\capital\capital\obj\Debug\capital.csproj.GenerateResource.cache
+C:\Users\Andres\source\repos\capital\capital\obj\Debug\capital.csproj.CoreCompileInputs.cache
+C:\Users\Andres\source\repos\capital\capital\obj\Debug\capital.exe
+C:\Users\Andres\source\repos\capital\capital\obj\Debug\capital.pdb

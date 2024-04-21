@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "operaciones matemáticas en C# SAO AGA/1.0.0": {
+        "runtime": {
+          "operaciones matemáticas en C# SAO AGA.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "operaciones matemáticas en C# SAO AGA/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
