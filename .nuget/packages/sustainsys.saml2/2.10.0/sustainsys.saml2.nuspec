@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2013/05/nuspec.xsd">
+  <metadata>
+    <id>Sustainsys.Saml2</id>
+    <version>2.10.0</version>
+    <authors>Sustainsys</authors>
+    <license type="expression">MIT</license>
+    <licenseUrl>https://licenses.nuget.org/MIT</licenseUrl>
+    <icon>sustainsys.png</icon>
+    <projectUrl>https://github.com/Sustainsys/Saml2</projectUrl>
+    <description>SAML2 protocol support. Do not use directly, use the high level package for your platform.</description>
+    <releaseNotes>Version 2.10.0
+* FIPS compliance
+
+See GitHub milestone issue list for details.</releaseNotes>
+    <tags>SAML2 authentication AspNet SAML SSO</tags>
+    <repository type="git" commit="32481d28a5765a9c6ded349f337438b0babba756" />
+    <dependencies>
+      <group targetFramework=".NETFramework4.6.1">
+        <dependency id="Microsoft.IdentityModel.Protocols" version="5.2.4" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.IdentityModel.Tokens" version="5.2.4" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.IdentityModel.Tokens.Saml" version="5.2.4" exclude="Build,Analyzers" />
+        <dependency id="System.Configuration.ConfigurationManager" version="4.4.1" exclude="Build,Analyzers" />
+        <dependency id="System.Security.Cryptography.Xml" version="4.5.0" exclude="Build,Analyzers" />
+        <dependency id="System.ValueTuple" version="4.5.0" exclude="Build,Analyzers" />
+      </group>
+      <group targetFramework=".NETFramework4.7">
+        <dependency id="Microsoft.IdentityModel.Protocols" version="5.2.4" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.IdentityModel.Tokens" version="5.2.4" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.IdentityModel.Tokens.Saml" version="5.2.4" exclude="Build,Analyzers" />
+        <dependency id="System.Configuration.ConfigurationManager" version="4.4.1" exclude="Build,Analyzers" />
+        <dependency id="System.Security.Cryptography.Xml" version="4.5.0" exclude="Build,Analyzers" />
+      </group>
+      <group targetFramework=".NETStandard2.0">
+        <dependency id="Microsoft.Extensions.Caching.Memory" version="2.1.2" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.IdentityModel.Protocols" version="5.2.4" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.IdentityModel.Tokens" version="5.2.4" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.IdentityModel.Tokens.Saml" version="5.2.4" exclude="Build,Analyzers" />
+        <dependency id="System.Configuration.ConfigurationManager" version="4.4.1" exclude="Build,Analyzers" />
+        <dependency id="System.Security.Cryptography.Xml" version="4.5.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+    <frameworkAssemblies>
+      <frameworkAssembly assemblyName="System.Runtime.Caching" targetFramework=".NETFramework4.6.1, .NETFramework4.7" />
+    </frameworkAssemblies>
+  </metadata>
+</package>
