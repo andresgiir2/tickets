@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="45dp">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center">
+
+        <TextView
+            android:id="@+id/tvSaldo"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Saldo actual: $0"
+            android:textSize="20sp"
+            android:layout_marginBottom="20dp"/>
+
+        <EditText
+            android:id="@+id/etMonto"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Ingrese monto"
+            android:inputType="number"
+            android:layout_marginBottom="20dp"/>
+
+        <Button
+            android:id="@+id/btnConsignar"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Consignar"
+            android:layout_marginBottom="10dp"/>
+
+        <Button
+            android:id="@+id/btnRetirar"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Retirar"
+            android:layout_marginBottom="20dp"/>
+
+        <TextView
+            android:id="@+id/tvHistorial"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Historial:"
+            android:textSize="16sp"
+            android:layout_marginTop="10dp" />
+
+    </LinearLayout>
+</ScrollView>
