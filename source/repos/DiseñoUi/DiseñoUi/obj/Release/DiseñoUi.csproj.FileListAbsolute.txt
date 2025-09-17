@@ -1,8 +1,0 @@
-C:\Users\Andres\source\repos\DiseñoUi\DiseñoUi\obj\Release\DiseñoUi.csproj.AssemblyReference.cache
-C:\Users\Andres\source\repos\DiseñoUi\DiseñoUi\obj\Release\DiseñoUi.Form1.resources
-C:\Users\Andres\source\repos\DiseñoUi\DiseñoUi\obj\Release\DiseñoUi.Login.resources
-C:\Users\Andres\source\repos\DiseñoUi\DiseñoUi\obj\Release\DiseñoUi.Productos.resources
-C:\Users\Andres\source\repos\DiseñoUi\DiseñoUi\obj\Release\DiseñoUi.Properties.Resources.resources
-C:\Users\Andres\source\repos\DiseñoUi\DiseñoUi\obj\Release\DiseñoUi.RegistroUsuario.resources
-C:\Users\Andres\source\repos\DiseñoUi\DiseñoUi\obj\Release\DiseñoUi.csproj.GenerateResource.cache
-C:\Users\Andres\source\repos\DiseñoUi\DiseñoUi\obj\Release\DiseñoUi.csproj.CoreCompileInputs.cache
